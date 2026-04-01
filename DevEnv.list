@@ -1,0 +1,68 @@
+DOMAIN-SUFFIX,bitbucket.org
+
+# ========================
+# JavaScript / Node.js
+# ========================
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,pnpm.io
+
+# ========================
+# Python
+# ========================
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+
+# ========================
+# Java / Maven
+# ========================
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,repo.maven.apache.org
+
+# ========================
+# Rust
+# ========================
+DOMAIN-SUFFIX,crates.io
+
+# ========================
+# Go
+# ========================
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
+
+# ========================
+# 容器 / 镜像仓库
+# ========================
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,quay.io
+
+# ========================
+# 云服务 / CDN
+# ========================
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,fastly.net
+
+# ========================
+# 前端资源
+# ========================
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+
+# ========================
+# API / 文档 / 工具
+# ========================
+DOMAIN-SUFFIX,postman.com
+DOMAIN-SUFFIX,swagger.io
+DOMAIN-SUFFIX,devdocs.io
+
+# ========================
+# IDE / 工具
+# ========================
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode.dev

@@ -3,9 +3,6 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
-# 走代理
-
-
 # 国外DNS
 DOMAIN-SUFFIX,iamqiqi.in
 DOMAIN-SUFFIX,dns.google

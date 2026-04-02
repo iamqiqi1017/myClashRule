@@ -1,7 +1,6 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,17dz.com,
-DOMAIN-SUFFIX,servyou-it.com,
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,17dz.com
+DOMAIN-SUFFIX,servyou-it.com
+DOMAIN-SUFFIX,91lyd.com
+DOMAIN-SUFFIX,171win.com.cn

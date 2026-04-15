@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,codeium.com,
 DOMAIN-SUFFIX,windsurf.com,
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,fast.iamqiqi.in
+
+IP-CIDR,10.199.0.0/16,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve

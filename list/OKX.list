@@ -1,0 +1,9 @@
+# NAME: OKX
+# AUTHOR: iamqiqi1017
+# REPO: https://gcore.jsdelivr.net/gh/iamqiqi1017/myClashRule@main
+# UPDATED: 2024-01-08 16:03:00
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com

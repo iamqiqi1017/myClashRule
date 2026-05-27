@@ -1,0 +1,11 @@
+# NAME: UBI
+# AUTHOR: iamqiqi1017
+# REPO: https://gcore.jsdelivr.net/gh/iamqiqi1017/myClashRule@main
+# UPDATED: 2025-06-06 09:15:09
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,uplay.com

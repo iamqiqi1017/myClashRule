@@ -4,6 +4,7 @@ Domain,ts1.171win.com.cn
 Domain,ts2.171win.com.cn
 Domain,ts3.171win.com.cn
 Domain,vpn.servyou.com.cn
+DOMAIN-SUFFIX,17dz.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com

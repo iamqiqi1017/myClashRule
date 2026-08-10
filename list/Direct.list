@@ -1,7 +1,13 @@
+# 公司公网可访问直连的域名
+Domain,rel.171win.com.cn
+Domain,ts1.171win.com.cn
+Domain,ts2.171win.com.cn
+Domain,ts3.171win.com.cn
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,codeium.com,
-DOMAIN-SUFFIX,windsurf.com,
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,fast.iamqiqi.in
 

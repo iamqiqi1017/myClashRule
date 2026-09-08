@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,fast.iamqiqi.in
 
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+
+# 国内服务的海外基础设施（腾讯全网 AS，含企业微信海外加速节点）
+IP-ASN,132203,no-resolve

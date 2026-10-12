@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,iamqiqi.in
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,anyrouter.top
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
@@ -336,6 +339,4 @@ IP-CIDR,142.250.0.0/16,no-resolve
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
-DOMAIN-SUFFIX,iamqiqi.in
-DOMAIN-SUFFIX,hembed.com
-DOMAIN-SUFFIX,cloudflare.com
+

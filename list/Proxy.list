@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,anyrouter.top
+DOMAIN-SUFFIX,play.cfnav.me
 
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve

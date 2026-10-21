@@ -3,7 +3,8 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeiumdata.com
-DOMAIN-SUFFIX,iamqiqi.in
+DOMAIN-SUFFIX,fast.iamqiqi.in
+DOMAIN-SUFFIX,fastwrt.iamqiqi.in
 
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve

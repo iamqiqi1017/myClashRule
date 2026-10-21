@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,play.cfnav.me
+DOMAIN-SUFFIX,commandcode.ai
+DOMAIN-SUFFIX,sheapi.cc
 
 # Cloudflare tunnel
 IP-CIDR,198.41.192.0/24,no-resolve
